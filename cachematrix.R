@@ -1,8 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Week 3 Assignment R Programming - Github: JorgeOnate
 
-## Write a short comment describing this function
-
+## makeCacheMatrix will take a "matrix" that can cache its inverse 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
